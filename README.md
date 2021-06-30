@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsnishant
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer vision
+- 🌱 I’m currently learning software development, Cloud, Computer vision
 - 💞️ I’m looking to collaborate on Deep Learning Projects
 - 📫 How to reach me itsnishant.k@gmail.com
 
